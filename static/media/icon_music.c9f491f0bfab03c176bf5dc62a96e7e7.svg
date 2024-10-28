@@ -1,0 +1,8 @@
+<svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group">
+<path id="Vector" d="M7 37C10.3137 37 13 34.3137 13 31C13 27.6863 10.3137 25 7 25C3.68629 25 1 27.6863 1 31C1 34.3137 3.68629 37 7 37Z" fill="white" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M31 35C34.3137 35 37 32.3137 37 29C37 25.6863 34.3137 23 31 23C27.6863 23 25 25.6863 25 29C25 32.3137 27.6863 35 31 35Z" fill="white" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M37 1L13 7V15L37 9V1Z" fill="white"/>
+<path id="Vector_4" d="M13 31V15M13 15V7L37 1V9M13 15L37 9M37 29V9" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
